@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hyper",
+  "base_artist": "Kroi",
+  "createdAt": "2026-03-06T07:50:08.611163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hyper Hyper",
+      "artist": "Modeselektor feat. Otto von Schirach",
+      "has_synced": false,
+      "path": "select/01_Hyper_Hyper_Modeselektor_feat._Otto_von_Schirach.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hyper Hyper (Ft. Otto Von Schirach)",
+      "artist": "Modeselektor",
+      "has_synced": false,
+      "path": "select/02_Hyper_Hyper_(Ft._Otto_Von_Schirach)_Modeselektor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hyper Music",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/03_Hyper_Music_Muse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hyper-Ballad (Brodsky Quartet Version)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Hyper-Ballad_(Brodsky_Quartet_Version)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hyper-Ballad (Family Tree Version)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/05_Hyper-Ballad_(Family_Tree_Version)_Björk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just What I Always Wanted (RM Hyper Techno mix)",
+      "artist": "Dead or Alive",
+      "has_synced": false,
+      "path": "select/06_Just_What_I_Always_Wanted_(RM_Hyper_Techno_mix)_Dead_or_Alive.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hyper Reality",
+      "artist": "Toxik",
+      "has_synced": true,
+      "path": "select/07_Hyper_Reality_Toxik.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spit It Out - Hyper Version",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/08_Spit_It_Out_-_Hyper_Version_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spit It Out (Hyper Version)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/09_Spit_It_Out_(Hyper_Version)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hyper-Insomnia-Para-Condrioid",
+      "artist": "Sum 41",
+      "has_synced": false,
+      "path": "select/10_Hyper-Insomnia-Para-Condrioid_Sum_41.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hyper-Insomnia-Para-Condrioid (Album Version Explicit)",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/11_Hyper-Insomnia-Para-Condrioid_(Album_Version_Explicit)_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To the Moon and Back (Escape Into Hyper Space)",
+      "artist": "Savage Garden",
+      "has_synced": false,
+      "path": "select/12_To_the_Moon_and_Back_(Escape_Into_Hyper_Space)_Savage_Garden.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hyper Dark",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/13_Hyper_Dark_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold feat. Daniela Andrade - Hyper Potions Remix",
+      "artist": "Dabin, Hyper Potions & Daniela Andrade",
+      "has_synced": true,
+      "path": "select/14_Hold_feat._Daniela_Andrade_-_Hyper_Potions_Remix_Dabin,_Hyper_Potions_&_Daniela_Andrade.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold feat. Daniela Andrade (Hyper Potions Remix)",
+      "artist": "Dabin, Daniela Andrade, Hyper Potions",
+      "has_synced": true,
+      "path": "select/15_Hold_feat._Daniela_Andrade_(Hyper_Potions_Remix)_Dabin,_Daniela_Andrade,_Hyper_Potions.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hyper Chondriac Music",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/16_Hyper_Chondriac_Music_Muse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hyper",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Hyper_Kroi.txt"
+    }
+  ]
+}
